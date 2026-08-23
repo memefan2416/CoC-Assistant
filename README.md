@@ -1,4 +1,4 @@
-# CoC-Assistant
+# CoC-KP-Assistant
 CoC、TRPGの進行の手助けをします
 
 主にココフォリアとの連携、KP・GMのシナリオ進行での負担軽減、PLやKP同士での連携の円滑化での目的で作成しています。
